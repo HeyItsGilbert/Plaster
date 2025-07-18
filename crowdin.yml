@@ -1,0 +1,3 @@
+files:
+  - source: '*Resources.psd1'
+    translation: /Plaster/%locale%/Plaster.Resources.psd1
