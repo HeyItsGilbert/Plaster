@@ -57,7 +57,7 @@
     "ShouldProcessNewModuleManifest": "Create new module manifest",
     "TempFileOperation_F1": "{0} into temp file before copying to destination",
     "TempFileTarget_F1": "temp file for '{0}'",
-    "TestPlasterNoXmlSchemaValidationWarning": "The version of .NET Core that PowerShell is running on does not support XML schema-based validation. Test-PlasterManifest will operate in "limited validation" mode primarily verifying the specified manifest file is well-formed XML. For full, XML schema-based validation, run this command on Windows PowerShell.",
+    "TestPlasterNoXmlSchemaValidationWarning": "The version of .NET Core that PowerShell is running on does not support XML schema-based validation. Test-PlasterManifest will operate in \"limited validation\" mode primarily verifying the specified manifest file is well-formed XML. For full, XML schema-based validation, run this command on Windows PowerShell.",
     "UnrecognizedParametersElement_F1": "Unrecognized manifest parameters child element: {0}.",
     "UnrecognizedParameterType_F2": "Unrecognized parameter type '{0}' on parameter name '{1}'.",
     "UnrecognizedContentElement_F1": "Unrecognized manifest content child element: {0}.",
